@@ -44,7 +44,6 @@
 [Type] == "Dungeon Map" # [IgnoreMap] == "true"
 [Type] == "Torture Chamber Map" # [IgnoreMap] == "true" // Bot get stucked on this one, and boss is totally OP anyway..
 [Type] == "Dry Peninsula Map" # [IgnoreMap] == "true"
-[Type] == "Jungle Valley Map" # [IgnoreMap] == "true"
 
 /////////////////////////////////////////////////////////////////////////////////////
 //                                                                                 //
@@ -120,79 +119,19 @@
 
 // Maps to ignore by name (Thanks to Omega for this list)
 
-
+// Map level 68
 // [Type] == "Crypt Map" # [IgnoreMap] == "true"
-// [Type] == "Dried Lake Map" # [IgnoreMap] == "true"
-// [Type] == "Dunes Map" # [IgnoreMap] == "true"
-// [Type] == "Dungeon Map" # [IgnoreMap] == "true"
-// [Type] == "Grotto Map" # [IgnoreMap] == "true"
-// [Type] == "Orchard Map" # [IgnoreMap] == "true"
-// [Type] == "Overgrown Ruin Map" # [IgnoreMap] == "true"
-// [Type] == "Tropical Island Map" # [IgnoreMap] == "true"
-// [Type] == "Untainted Map" # [IgnoreMap] == "true"
-// [Type] == "Arcade Map" # [IgnoreMap] == "true"
-// [Type] == "Arsenal Map" # [IgnoreMap] == "true"
-// [Type] == "Cemetery Map" # [IgnoreMap] == "true"
-// [Type] == "Mountain Ledge Map" # [IgnoreMap] == "true"
-// [Type] == "Sewer Map" # [IgnoreMap] == "true"
-// [Type] == "Thicket Map" # [IgnoreMap] == "true"
-// [Type] == "Wharf Map" # [IgnoreMap] == "true"
-// [Type] == "Ghetto Map" # [IgnoreMap] == "true"
-// [Type] == "Mud Geyser Map" # [IgnoreMap] == "true"
-// [Type] == "Museum Map" # [IgnoreMap] == "true"
-// [Type] == "Reef Map" # [IgnoreMap] == "true"
-// [Type] == "Spider Lair Map" # [IgnoreMap] == "true"
-// [Type] == "Springs Map" # [IgnoreMap] == "true"
-// [Type] == "Vaal Pyramid Map" # [IgnoreMap] == "true"
-// [Type] == "Catacomb Map" # [IgnoreMap] == "true"
-// [Type] == "Overgrown Shrine Map" # [IgnoreMap] == "true"
-// [Type] == "Promenade Map" # [IgnoreMap] == "true"
-// [Type] == "Shore Map" # [IgnoreMap] == "true"
-// [Type] == "Spider Forest Map" # [IgnoreMap] == "true"
-// [Type] == "Tunnel Map" # [IgnoreMap] == "true"
-// [Type] == "Bog Map" # [IgnoreMap] == "true"
-// [Type] == "Coves Map" # [IgnoreMap] == "true"
-// [Type] == "Graveyard Map" # [IgnoreMap] == "true"
-// [Type] == "Pier Map" # [IgnoreMap] == "true"
-// [Type] == "Underground Sea Map" # [IgnoreMap] == "true"
-// [Type] == "Villa Map" # [IgnoreMap] == "true"
-// [Type] == "Arachnid Nest Map" # [IgnoreMap] == "true"
-// [Type] == "Colonnade Map" # [IgnoreMap] == "true"
-// [Type] == "Dry Woods Map" # [IgnoreMap] == "true"
-// [Type] == "Strand Map" # [IgnoreMap] == "true"
-// [Type] == "Temple Map" # [IgnoreMap] == "true"
-// [Type] == "Jungle Valley Map" # [IgnoreMap] == "true"
-// [Type] == "Labyrinth Map" # [IgnoreMap] == "true"
-// [Type] == "Mine Map" # [IgnoreMap] == "true"
-
-// [Type] == "Torture Chamber Map" # [IgnoreMap] == "true"
-// [Type] == "Waste Pool Map" # [IgnoreMap] == "true"
-// [Type] == "Canyon Map" # [IgnoreMap] == "true"
-// [Type] == "Cells Map" # [IgnoreMap] == "true"
-// [Type] == "Dark Forest Map" # [IgnoreMap] == "true"
-// [Type] == "Dry Peninsula Map" # [IgnoreMap] == "true"
-// [Type] == "Gorge Map" # [IgnoreMap] == "true"
-// [Type] == "Maze Map" # [IgnoreMap] == "true"
-// [Type] == "Residence Map" # [IgnoreMap] == "true"
-// [Type] == "Underground River Map" # [IgnoreMap] == "true"
-// [Type] == "Bazaar Map" # [IgnoreMap] == "true"
-// [Type] == "Necropolis Map" # [IgnoreMap] == "true"
-// [Type] == "Plateau Map" # [IgnoreMap] == "true"
-// [Type] == "Academy Map" # [IgnoreMap] == "true"
-// [Type] == "Crematorium Map" # [IgnoreMap] == "true"
-// [Type] == "Precinct Map" # [IgnoreMap] == "true"
-// [Type] == "Shipyard Map" # [IgnoreMap] == "true"
-// [Type] == "Shrine Map" # [IgnoreMap] == "true"
-// [Type] == "Courtyard Map" # [IgnoreMap] == "true"
-// [Type] == "Palace Map" # [IgnoreMap] == "true"
-// [Type] == "Vaal Temple Map" # [IgnoreMap] == "true"
+// [Type] == "Crypt Map" # [IgnoreMap] == "true"
+// [Type] == "Crypt Map" # [IgnoreMap] == "true"
+// [Type] == "Crypt Map" # [IgnoreMap] == "true"
+// [Type] == "Crypt Map" # [IgnoreMap] == "true"
 
 
 // Unique Maps by Name
 
 
 // [Type] == "Crypt Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // The Coward's Trial
-// [Type] == "Mountain Ledge Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Maelström of Chaos
+// [Type] == "Mountain Ledge Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // MaelstrÃ¶m of Chaos
 // [Type] == "Reef Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Mao Kun
 // [Type] == "Vaal Pyramid Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Vaults of Atziri
 // [Type] == "Overgrown Shrine Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Acton's Nightmare
@@ -200,4 +139,4 @@
 // [Type] == "Torture Chamber Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Oba's Cursed Trove
 // [Type] == "Strand Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Whakawairua Tuahu
 // [Type] == "Maze Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Olmec's Sanctum
-// [Type] == "Necropolis Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Death and TaxesS
+// [Type] == "Necropolis Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Death and Taxes
