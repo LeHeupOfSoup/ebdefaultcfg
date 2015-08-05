@@ -228,3 +228,4 @@
 // [Type] == "Strand Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Whakawairua Tuahu
 // [Type] == "Maze Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Olmec's Sanctum
 // [Type] == "Necropolis Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Death and Taxes
+// [Type] == "Promenade Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Hall of Grandmasters
